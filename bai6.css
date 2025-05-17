@@ -1,4 +1,5 @@
 .nh{
     color: pink;
-  background-image: https://www.google.com.vn/imgres?q=%E1%BA%A3nh&imgurl=https%3A%2F%2Fd1hjkbq40fs2x4.cloudfront.net%2F2016-01-31%2Ffiles%2F1045-2.jpg&imgrefurl=https%3A%2F%2Fsnapshot.canon-asia.com%2Fvn%2Farticle%2Fviet%2F5-simple-ways-to-take-the-world-8217-s-best-photos&docid=LyxSqm2ukReAPM&tbnid=DxJ4PXmagCmPnM&vet=12ahUKEwjOwtyk0aqNAxVrmlYBHW_VCGYQM3oECFIQAA..i&w=540&h=360&hcb=2&ved=2ahUKEwjOwtyk0aqNAxVrmlYBHW_VCGYQM3oECFIQAA
+     background: url('duong-dan-toi-anh.jpg') no-repeat center center;
+  background-size: cover;
 }
